@@ -98,7 +98,7 @@ results/
 
 ---
 
-##  3) 단일 이미지 추론 실행
+##  3)  이미지 추론 실행
 
 ```bash
 python3 infer/inference.py --image "/path/to/image.jpg"
